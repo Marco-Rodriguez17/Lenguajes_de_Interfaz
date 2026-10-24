@@ -8,6 +8,7 @@
 ; Docente: Jose Luis Medina Jimenez
 ; Grupo / horario: 10:00 - 11:00 am
 ; Practica 6.1: Control de ocupacion
+; Descripcion: Controla los espacios disponibles de un estacionamiento.
 ; =========================================================
 
 INCLUDE Irvine32.inc ;Se incluye la libreria de Irvine32.inc para poder utilizar sus funciones

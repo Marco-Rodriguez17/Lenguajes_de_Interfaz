@@ -5,7 +5,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Alumno: Marco Antonio Rodriguez Diaz
 ; Numero de control: 23170308
-; Docente: Jose Luis Medina Jimenez
+; Docente: Dr. Jose Luis Medina Jimenez
 ; Grupo / horario: 10:00 - 11:00 am
 ; Practica 4.1: Mayor, menor o igual con entrada del usuario
 ; Descripcion: Compara dos numeros ingresados por el usuario.

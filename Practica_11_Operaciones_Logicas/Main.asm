@@ -8,6 +8,7 @@
 ; Docente: Jose Luis Medina Jimenez
 ; Grupo / horario: 10:00 - 11:00 am
 ; Practica 11: Operaciones logicas
+; Descripcion: Utiliza operaciones logicas para manipular bits.
 ; =========================================================
 
 INCLUDE Irvine32.inc ;Se incluye la libreria de Irvine32.inc para poder utilizar sus funciones

@@ -8,6 +8,7 @@
 ; Docente: Jose Luis Medina Jimenez
 ; Grupo / horario: 10:00 - 11:00 am
 ; Practica 7: Validacion de formato
+; Descripcion: Valida que una cadena cumpla con un formato especifico.
 ; =========================================================
 
 INCLUDE Irvine32.inc ;Se incluye la libreria de Irvine32.inc para poder utilizar sus funciones

@@ -5,7 +5,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Alumno: Marco Antonio Rodriguez Diaz
 ; Numero de control: 23170308
-; Docente: Jose Luis Medina Jimenez
+; Docente: Dr. Jose Luis Medina Jimenez
 ; Grupo / horario: 10:00 - 11:00 am
 ; Practica 14: Captura y almacenamiento de dato numerico
 ; Descripcion: Captura y valida cantidades para actualizar un inventario

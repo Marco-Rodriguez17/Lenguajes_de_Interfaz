@@ -8,6 +8,7 @@
 ; Docente: Jose Luis Medina Jimenez
 ; Grupo / horario: 10:00 - 11:00 am
 ; Practica 14: Captura y almacenamiento de dato numerico
+; Descripcion: Captura y valida cantidades para actualizar un inventario
 ; =========================================================
 
 INCLUDE Irvine32.inc ;Se incluye la libreria de Irvine32.inc para poder utilizar sus funciones

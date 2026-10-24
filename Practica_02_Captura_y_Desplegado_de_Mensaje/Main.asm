@@ -8,6 +8,7 @@
 ; Docente: Jose Luis Medina Jimenez
 ; Grupo / horario: 10:00 - 11:00 am
 ; Practica 2: Captura y desplegado de mensaje
+; Descripcion: Captura el nombre del usuario y lo muestra en pantalla.
 ; =========================================================
 
 INCLUDE Irvine32.inc ;Se incluye la libreria de Irvine32.inc para poder utilizar sus funciones

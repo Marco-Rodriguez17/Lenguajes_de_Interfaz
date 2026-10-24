@@ -5,7 +5,7 @@
 ; Materia: Lenguajes de Interfaz
 ; Alumno: Marco Antonio Rodriguez Diaz
 ; Numero de control: 23170308
-; Docente: Jose Luis Medina Jimenez
+; Docente: Dr. Jose Luis Medina Jimenez
 ; Grupo / horario: 10:00 - 11:00 am
 ; Practica 7: Validacion de formato
 ; Descripcion: Valida que una cadena cumpla con un formato especifico.

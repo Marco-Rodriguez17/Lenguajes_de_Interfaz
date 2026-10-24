@@ -37,5 +37,3 @@ Este repositorio reúne las prácticas de la materia Lenguajes de Interfaz, real
 | 13 | String hexadecimal | [Ver código](Practica_13_String_Hexadecimal/Main.asm) |
 | 14 | Captura y almacenamiento de dato numérico | [Ver código](Practica_14_Captura_y_Almacenamiento_de_Dato_Numerico/Main.asm) |
 | 15 | Manipulación de archivo | [Ver código](Practica_15_Manipulacion_de_Archivo/Main.asm) |
-
-> **Importante:** Para que los enlaces funcionen, los nombres de las carpetas y del archivo `Main.asm` deben coincidir exactamente con las rutas del índice. La unidad debe revisarse antes de entregar, si el profesor las asignó a otra unidad.
